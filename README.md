@@ -1,5 +1,5 @@
 # Rogue-like-Game
-A Java-based roguelike game
+A Java-based roguelike game following OOP.
 
 ## Contributors
 1. Wong Chee Hao
