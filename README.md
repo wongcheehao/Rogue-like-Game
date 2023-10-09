@@ -1,9 +1,7 @@
-# Elden Ring
+# Rogue-like-Game
 
-## MA_Lab02Team08
-
-Contributors: 
-1. Chee Hao Wong
+## Contributors
+1. Wong Chee Hao
 2. Park Jun Koo
 3. Steve Rahardjo
 
